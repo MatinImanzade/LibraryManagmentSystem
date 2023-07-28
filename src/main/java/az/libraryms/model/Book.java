@@ -1,2 +1,4 @@
-package az.libraryms.model;public class Book {
+package az.libraryms.model;
+
+public class Book {
 }

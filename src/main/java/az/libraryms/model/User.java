@@ -1,2 +1,4 @@
-package az.libraryms.model;public class User {
+package az.libraryms.model;
+
+public class User {
 }
